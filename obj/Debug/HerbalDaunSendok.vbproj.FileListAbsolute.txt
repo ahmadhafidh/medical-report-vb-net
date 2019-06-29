@@ -1,0 +1,108 @@
+c:\users\ahmad hafidh\documents\visual studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe.config
+c:\users\ahmad hafidh\documents\visual studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe
+c:\users\ahmad hafidh\documents\visual studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.pdb
+c:\users\ahmad hafidh\documents\visual studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.xml
+c:\users\ahmad hafidh\documents\visual studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Resources.resources
+c:\users\ahmad hafidh\documents\visual studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbproj.GenerateResource.Cache
+c:\users\ahmad hafidh\documents\visual studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.exe
+c:\users\ahmad hafidh\documents\visual studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.xml
+c:\users\ahmad hafidh\documents\visual studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.pdb
+C:\Users\AHMAD HAFIDH\Documents\Visual Studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormLogin.resources
+C:\Users\AHMAD HAFIDH\Documents\Visual Studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormNewPasien.resources
+C:\Users\AHMAD HAFIDH\Documents\Visual Studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormFilelingPasien.resources
+C:\Users\AHMAD HAFIDH\Documents\Visual Studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormMaster.resources
+C:\Users\AHMAD HAFIDH\Documents\Visual Studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormReporting.resources
+C:\Users\AHMAD HAFIDH\Documents\Visual Studio 2013\Projects\HerbalDaunSendok\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbprojResolveAssemblyReference.cache
+D:\herbal\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe.config
+D:\herbal\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe
+D:\herbal\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.pdb
+D:\herbal\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.xml
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormCariPasien.resources
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormLogin.resources
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormNewPasien.resources
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormMaster.resources
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormReporting.resources
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormTerapi.resources
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Resources.resources
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbproj.GenerateResource.Cache
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.exe
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.xml
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.pdb
+D:\herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbprojResolveAssemblyReference.cache
+D:\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe.config
+D:\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormCariPasien.resources
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormLogin.resources
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormNewPasien.resources
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormMaster.resources
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormTerapi.resources
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Laporan.resources
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Resources.resources
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbproj.GenerateResource.Cache
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.exe
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.xml
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.pdb
+D:\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.pdb
+D:\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.xml
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbprojResolveAssemblyReference.cache
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Load.resources
+D:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormCariPasienN.resources
+E:\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe.config
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.exe
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.xml
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.pdb
+E:\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe
+E:\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.pdb
+E:\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.xml
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbprojResolveAssemblyReference.cache
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormCariPasienN.resources
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Load.resources
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormCariPasien.resources
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormLogin.resources
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormNewPasien.resources
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormMaster.resources
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormTerapi.resources
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Laporan.resources
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Resources.resources
+E:\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbproj.GenerateResource.Cache
+D:\HerbalDaunSendok\bin\Debug\Database1.mdf
+D:\HerbalDaunSendok\bin\Debug\Database1_log.ldf
+D:\sudah jadi\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe.config
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.exe
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.xml
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.pdb
+D:\sudah jadi\HerbalDaunSendok\bin\Debug\Database1.mdf
+D:\sudah jadi\HerbalDaunSendok\bin\Debug\Database1_log.ldf
+D:\sudah jadi\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe
+D:\sudah jadi\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.pdb
+D:\sudah jadi\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.xml
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormCariPasienN.resources
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Load.resources
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormCariPasien.resources
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormLogin.resources
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormNewPasien.resources
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormMaster.resources
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormTerapi.resources
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Laporan.resources
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Resources.resources
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbproj.GenerateResource.Cache
+D:\sudah jadi\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe.manifest
+D:\sudah jadi\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.application
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.exe.manifest
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.application
+D:\sudah jadi\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbprojResolveAssemblyReference.cache
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\bin\Debug\HerbalDaunSendok.exe.config
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.exe
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.xml
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.pdb
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbprojResolveAssemblyReference.cache
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormCariPasienN.resources
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Load.resources
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormCariPasien.resources
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormLogin.resources
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormNewPasien.resources
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormMaster.resources
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.FormTerapi.resources
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Laporan.resources
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.Resources.resources
+H:\From Drive D\ETERNITY DEVELOPER\Freelance\sudah jadi Herbal\HerbalDaunSendok\obj\Debug\HerbalDaunSendok.vbproj.GenerateResource.Cache
